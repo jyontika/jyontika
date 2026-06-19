@@ -1,6 +1,6 @@
 # Hi, I'm Jyontika!
 
-Data scientist and education researcher. I work at the intersection of causal inference, multilevel modeling, and applied statistics — with a soft spot for messy real-world data.
+I am a third-year PhD student in Statistics and Data Science at Northwestern University. 
 
 ## About me
 
