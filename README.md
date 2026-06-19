@@ -19,4 +19,4 @@ I am a third-year PhD student in Statistics and Data Science at Northwestern Uni
 
 ## Connect
 
-📫 Reach me via at [jyontika@u.northwestern.edu](mailto:jyontika@u.northwestern.edu) or [LinkedIn](https://linkedin.com/in/jyontika).
+📫 Reach me via email at [jyontika@u.northwestern.edu](mailto:jyontika@u.northwestern.edu) or through [LinkedIn](https://linkedin.com/in/jyontika).
